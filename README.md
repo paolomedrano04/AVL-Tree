@@ -1,7 +1,6 @@
 # AVL-Tree
 Implementación de Estructura AVL-Tree
-# Integrantes :
-| Nombre |
+| Integrantes |
 | -----------| 
 | Paolo Medrano       | 
 | Luciano Jesfen      | 
