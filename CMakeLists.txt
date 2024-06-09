@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.28)
-project(HW3 C)
+project(HW4 C)
 
 set(CMAKE_C_STANDARD 11)
 
 include_directories(.)
 
-add_executable(HW3
+add_executable(HW4
         main.cpp
-        hash_table.h)
+        avl-tree.h)
