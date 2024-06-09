@@ -1,5 +1,5 @@
-#ifndef HW4_AVL_H
-#define HW4_AVL_H
+#ifndef HW4_AVL-TREE_H
+#define HW4_AVL-TREE_H
 
 #include <iostream>
 
